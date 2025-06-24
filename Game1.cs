@@ -10,7 +10,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace SurvivalCraft
 {
-
+///test from github
     public class Game1 : Game
     {
         //Day&Night&Seasons&Weather&Evets
