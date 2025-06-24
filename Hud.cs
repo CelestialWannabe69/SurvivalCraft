@@ -6,6 +6,8 @@ namespace SurvivalCraft
 {
     public class Hud
     {
+
+        //test1 github
         private readonly SpriteFont _font;
         private readonly Texture2D _pixel;
 
